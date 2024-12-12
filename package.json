@@ -1,0 +1,22 @@
+{
+  "name": "car-wash-backend",
+  "version": "1.0.0",
+  "description": "backend for car wash react app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RITU0509/car-wash-backend.git"
+  },
+  "author": "Ritu Hembram",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RITU0509/car-wash-backend/issues"
+  },
+  "homepage": "https://github.com/RITU0509/car-wash-backend#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
